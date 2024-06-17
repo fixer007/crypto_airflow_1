@@ -11,9 +11,9 @@ host_ip:8080
 
 login creds: \
 user airflow \
-pass airflow \
+pass airflow
 
-Go to DAGs page and launch DAG of youe choise (sample_dag_X.py) \
+Go to DAGs page and launch DAG of youe choise (sample_dag_X.py)
 
 code from article https://deephaven.io/blog/2022/09/07/apache-airflow-crypto/ \
 sample_dag_1.py
